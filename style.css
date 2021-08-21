@@ -8,8 +8,8 @@
 }
 body{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center;
+    align-items: center; */
     min-height: 100vh;
     background: #03a9f4;
     transition: 0.5s;
